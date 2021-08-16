@@ -1,2 +1,2 @@
 # Master-thesis-Dunker
-This Github repository complements the master thesis of Nils Dunker with the title "The influence of anticipated climate impacts on tipping dynamics in complex social systems. An agent-based model.". Here, used codes, data and supplementary information are made available. Additional scripts used for application on the PIK cluster can be provided upon request.
+This Github repository complements the master thesis of Nils Dunker with the title "The influence of anticipated climate impacts on tipping dynamics in complex social systems. An agent-based model.". Here, used codes, data and supplementary information are made available. Additional scripts and large files used for application on the PIK cluster can be provided upon request.
